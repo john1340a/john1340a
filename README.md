@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @john1340a
-- 👀 I’m interested in web designing.
+- 👋 Hi, I’m Jean-Kelly
+- 👀 I’m interested in web developpement.
 - 🌱 I’m currently learning GIS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta : @saintmartinois
