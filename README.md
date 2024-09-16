@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jean-Kelly
-- 👀 I’m interested in GIS web developpement.
+- 👀 I’m interested in WEB GIS developpement.
 - 🌱 I’m currently learning Mainframe
 - 💞️ I’m looking to collaborate on any WEB GIS
 
