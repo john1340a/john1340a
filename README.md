@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jean-Kelly
-- 👀 I’m interested in web developpement.
+- 👀 I’m interested in GIS web developpement.
 - 🌱 I’m currently learning Mainframe
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any WEB GIS
 
 <!---
 john1340a/john1340a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
