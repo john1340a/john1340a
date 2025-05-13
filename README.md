@@ -1,18 +1,18 @@
-# Salut, moi c’est Jean-Kelly Seguin
+# Hi there, I'm Jean-Kelly Seguin
 
-## Développeur Web SIG Freelance | Spécialisé Leaflet.js • PostGIS • PHP • JavaScript
+## Freelance Web GIS Developer | Leaflet.js • PostGIS • PHP • JavaScript
 
-Passionné par les données géospatiales et les interfaces métiers, je transforme les besoins métiers en applications cartographiques performantes, intuitives et accessibles sans installation complexe.
+I build custom web mapping applications that are fast, intuitive, and easy to use — turning complex geospatial data into powerful tools for real-world use cases.
 
-- Développement d’applications SIG Web sur mesure
-- Intégration de cartes interactives (Leaflet.js, OpenLayers)
-- Traitement de données géographiques (PostGIS, QGIS)
-- Interfaces légères et efficaces (PHP, JavaScript, Semantic UI, jQuery)
-- Expérience avec des clients du BTP, de l’aménagement du territoire et de l’environnement
+- Web GIS development tailored to business needs  
+- Interactive mapping with Leaflet.js & OpenLayers  
+- Spatial data processing (PostGIS, QGIS)  
+- Lightweight and efficient front-ends (PHP, JavaScript, Semantic UI, jQuery)  
+- Experience with construction, urban planning, and environmental sectors  
 
 ---
 
-## Mes Technos & Outils
+## Tech Stack & Tools
 
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -26,24 +26,24 @@ Passionné par les données géospatiales et les interfaces métiers, je transfo
 
 ---
 
-## Ce que je fais en ce moment
+## What I'm Working On
 
-- Développement d’une solution mobile d’analyse de peau et recommandation cosmétique : **SkinMatch**
-- Automatisation de l’acquisition de clients freelance dans le domaine Web SIG
-- Veille active sur les technologies spatiales (pg_tileserv, pg_featureserv, etc.)
+- **SkinMatch** – a mobile solution for skin analysis and personalized cosmetic recommendations  
+- Automating client acquisition for freelance Web GIS services  
+- Keeping up with modern spatial tools like `pg_tileserv` and `pg_featureserv`
 
 ---
 
-## Quelques liens utiles
+## Useful Links
 
-- [Portfolio](https://portf0l.io/jksdev)
-- [GitHub](https://github.com/john1340a)
-- [Vidéo démo](https://youtu.be/4KyoW2YftOE?si=rHgBZvfD_NAmuS_c)
+- [Portfolio](https://portf0l.io/jksdev)  
+- [GitHub](https://github.com/john1340a)  
+- [Demo Video](https://youtu.be/4KyoW2YftOE?si=rHgBZvfD_NAmuS_c)  
 - [LinkedIn](https://fr.linkedin.com/in/jean-kelly-seguin-2202431a6)
 
 ---
 
-## Mes Stats GitHub
+## GitHub Stats
 
 ![Jean-Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=john1340a&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john1340a&layout=compact&theme=radical)
