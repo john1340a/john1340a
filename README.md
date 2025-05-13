@@ -39,7 +39,7 @@ Passionné par les données géospatiales et les interfaces métiers, je transfo
 - [Portfolio](https://portf0l.io/jksdev)
 - [GitHub](https://github.com/john1340a)
 - [Vidéo démo](https://youtu.be/4KyoW2YftOE?si=rHgBZvfD_NAmuS_c)
-- [LinkedIn](https://www.linkedin.com/in/jean-kelly-seguin/) 
+- [LinkedIn](https://fr.linkedin.com/in/jean-kelly-seguin-2202431a6)
 
 ---
 
